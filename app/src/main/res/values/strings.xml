@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GHTrial</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+        <string name="short_text">
+
+        <font size='12'>"Some caption for the image above so that\nthe viewer can know what they are looking."</font>
+
+    </string>
+
+    <string name="large_text">
+        <b><font size='15'>INTRODUCTION</font></b>
+
+        <font size='12'>"\n\nHere lies the introduction of the location along with additional information on the hotels,"
+        "and lodges available in the area. It also gives details of the sites that are suitable to"
+        "travel and the routes to the place.\n"</font>
+
+        <b><font size='15'>\nNOT TO MISS</font></b>
+
+        <font size='12'>"\n\nHere the details of special locations are provided which makes it easier for the user to"
+        "know the places which are popular and frequently visited by tourists. Along with this"
+        "information the user gets to know about locations with ease.\n"</font>
+
+    </string>
+</resources>
